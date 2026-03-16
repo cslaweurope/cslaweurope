@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "post-a-post-with-plotly-js",
+  },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -379,52 +372,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "activities-activity-1",
-          title: 'activity_1',
-          description: "with background image",
-          section: "Activities",handler: () => {
-              window.location.href = "/activities/1_activity/";
-            },},{id: "activities-activity-2",
-          title: 'Activity 2',
-          description: "a project with a background image and giscus comments",
-          section: "Activities",handler: () => {
-              window.location.href = "/activities/2_activity/";
-            },},{id: "activities-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Activities",handler: () => {
-              window.location.href = "/activities/3_project/";
-            },},{id: "activities-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Activities",handler: () => {
-              window.location.href = "/activities/4_project/";
-            },},{id: "activities-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Activities",handler: () => {
-              window.location.href = "/activities/5_project/";
-            },},{id: "activities-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Activities",handler: () => {
-              window.location.href = "/activities/6_project/";
-            },},{id: "activities-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Activities",handler: () => {
-              window.location.href = "/activities/7_project/";
-            },},{id: "activities-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Activities",handler: () => {
-              window.location.href = "/activities/8_project/";
-            },},{id: "activities-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Activities",handler: () => {
-              window.location.href = "/activities/9_project/";
-            },},{id: "books-the-godfather",
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
