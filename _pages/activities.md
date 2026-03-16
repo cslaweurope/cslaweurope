@@ -3,7 +3,7 @@ layout: page
 title: activities
 permalink: /activities/
 description: Activities organized by the CS&Law Europe Network.
-nav:true
+nav: true
 horizontal: false
 ---
 
