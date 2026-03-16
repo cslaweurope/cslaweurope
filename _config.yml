@@ -160,7 +160,7 @@ collections:
     defaults:
       layout: post
     output: true
-  projects:
+  activities:
     output: true
   teachings:
     output: true
