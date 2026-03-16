@@ -17,11 +17,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-The intersection of **Computer Science (CS) and Law in Europe** is not just "tech policy" or "legal informatics." We aim to foster an emerging field of research that is inherently cross-disciplinary and requires a dedicated space to debate and grow. 
+The intersection of **Computer Science (CS) and Law in Europe** is not just "tech policy" or "legal informatics." We aim to foster an emerging field of research that is inherently cross-disciplinary and requires a dedicated space to debate and grow.
 The CS & Law Europe Network connects researchers and practitioners working at the intersection of CS & Law. We are a decentralized, researcher-led initiative designed to bridge the gap between our institutions and communities.
 
 Our aims are:
-* We want to **foster a strong European community**: We aim to connect experts and researchers across Computer Science and Law, primarily located in Europe, in order to foster interdisciplinary understanding and collaboration that shapes both fields. 
-* We want to **push the boundaries of research**: We enable a shared infrastructure for researchers across Computer Science and Law to share their latest work and get feedback on cutting-edge research. 
-* We want to **increase policy impact**: We aim to promote cutting-edge research into actionable insights, policy recommendations, and innovative solutions that responsibly address the challenges of the digital transformation.
 
+- We want to **foster a strong European community**: We aim to connect experts and researchers across Computer Science and Law, primarily located in Europe, in order to foster interdisciplinary understanding and collaboration that shapes both fields.
+- We want to **push the boundaries of research**: We enable a shared infrastructure for researchers across Computer Science and Law to share their latest work and get feedback on cutting-edge research.
+- We want to **increase policy impact**: We aim to promote cutting-edge research into actionable insights, policy recommendations, and innovative solutions that responsibly address the challenges of the digital transformation.
