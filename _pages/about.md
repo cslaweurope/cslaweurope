@@ -7,7 +7,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # social icons section is empty; sign-up CTA is embedded in page content
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -22,11 +22,7 @@ The CS & Law Europe Network connects researchers and practitioners working at th
 
 Our aims are:
 
-- We want to **foster a strong European community**: We aim to connect experts and researchers across Computer Science and Law, primarily located in Europe, in order to foster interdisciplinary understanding and collaboration that shapes both fields.
-- We want to **push the boundaries of research**: We enable a shared infrastructure for researchers across Computer Science and Law to share their latest work and get feedback on cutting-edge research.
-- We want to **increase policy impact**: We aim to promote cutting-edge research into actionable insights, policy recommendations, and innovative solutions that responsibly address the challenges of the digital transformation.
-
-{% include figure.liquid loading="eager" path="assets/img/Visualizations.svg" class="img-fluid" alt="CS & Law Europe Network Visualizations" %}
+{% include figure.liquid loading="eager" path="assets/img/Visualizations.svg" class="img-fluid" alt="Aims of the CS & Law Europe Network" %}
 
 ## Get Involved
 
