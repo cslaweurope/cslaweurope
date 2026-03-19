@@ -41,22 +41,12 @@ ninja.data = [{
       },{id: "news-we-started-the-cs-amp-amp-law-european-network-with-a-kickoff-meeting-where-we-discussed-the-goals-and-objectives-of-the-network-and-future-events-to-achieve-them",
           title: 'We started the CS&amp;amp;amp;Law European Network with a kickoff meeting where we discussed...',
           description: "",
-          section: "News",},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
-            },},{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+          section: "News",},{
+        id: 'social-get_involved',
+        title: 'Get_involved',
         section: 'Socials',
         handler: () => {
-          window.open("https://cslaw-eu-network.slack.com/", "_blank");
+          window.open("https://docs.google.com/forms/d/e/1FAIpQLSfJP0NCPt03lckjn2BhaJBQtU7tYQ3YBORzNfYfGpaCmOlFXg/viewform?usp=header", "_blank");
         },
       },{
       id: 'light-theme',
