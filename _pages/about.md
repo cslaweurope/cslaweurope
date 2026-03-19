@@ -4,7 +4,7 @@ title: about
 permalink: /
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # social icons section is empty; sign-up CTA is embedded in page content
 
 announcements:
   enabled: true # includes a list of news items
@@ -27,3 +27,9 @@ Our aims are:
 - We want to **increase policy impact**: We aim to promote cutting-edge research into actionable insights, policy recommendations, and innovative solutions that responsibly address the challenges of the digital transformation.
 
 {% include figure.liquid loading="eager" path="assets/img/Visualizations.svg" class="img-fluid" alt="CS & Law Europe Network Visualizations" %}
+
+## Get Involved
+
+Sign up to our **events**, **mailing list**, and **Slack** community by sharing your email via our sign-up form:
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfJP0NCPt03lckjn2BhaJBQtU7tYQ3YBORzNfYfGpaCmOlFXg/viewform?usp=header" class="btn btn-primary mt-1" target="_blank" rel="noopener noreferrer">Sign Up →</a>
