@@ -42,13 +42,6 @@ ninja.data = [{
           title: 'We started the CS&amp;amp;amp;Law European Network with a kickoff meeting where we discussed...',
           description: "",
           section: "News",},{
-        id: 'social-get_involved',
-        title: 'Get_involved',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://docs.google.com/forms/d/e/1FAIpQLSfJP0NCPt03lckjn2BhaJBQtU7tYQ3YBORzNfYfGpaCmOlFXg/viewform?usp=header", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
