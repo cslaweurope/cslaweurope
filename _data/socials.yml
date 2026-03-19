@@ -1,6 +1,6 @@
 # this file contains the social media links and usernames of the author
 # email: # We could add here the proton email
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://a.slack-edge.com/38f0e7c/marketing/img/nav/logo.svg
-  title: Slack Channel
-  url: https://cslaw-eu-network.slack.com/
+get_involved: # can be any name here other than the ones already defined in the jekyll-socials plugin
+  logo: https://www.gstatic.com/images/branding/product/2x/forms_2020q4_48dp.png
+  title: Google Form to join the Community
+  url: https://docs.google.com/forms/d/e/1FAIpQLSfJP0NCPt03lckjn2BhaJBQtU7tYQ3YBORzNfYfGpaCmOlFXg/viewform?usp=header
