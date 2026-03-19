@@ -2,59 +2,47 @@
 layout: page
 title: activities
 permalink: /activities/
-description: Activities organized by the CS&Law Europe Network. These monthly activities rotate and take place every last Friday of the month from 12.30-1.30 CET -- sign up with the Google sheet to get a calendar invite.
+description: Activities organized by the CS&Law Europe Network. **These monthly activities rotate and take place every last Friday of the month from 12.30-1.30 CET** -- sign up with the Google sheet to get a calendar invite.
 nav: true
 horizontal: false
 ---
 
-## Community Learning Calls
+### Community learning calls
 
 Our bi-monthly Learning Calls serve as a dynamic space for members to share emerging work, bridge disciplinary gaps, and build a "living directory" of expertise. Whether you're looking to showcase a new project or find synergies with peers in niche fields, these calls are designed to turn individual insights into collective intelligence.
 
-### Why Join a Learning Call?
+**Why join?** Our primary goal is to move beyond polished final results and embrace the process of discovery.
 
-Our primary goal is to move beyond polished final results and embrace the process of discovery.
+- **Foster early-stage feedback:** We cultivate a safe environment for raw ideas, helping you refine your work long before it reaches a final draft.
+- **Discover synergies:** Identify overlaps in research and projects across the community that you might not have known existed.
+- **Cross-disciplinary mapping:** Break out of silos and see how your niche fits into the broader ecosystem.
+- **Showcase interesting research:** We give a stage to the "hidden gems" of the community, ensuring diverse voices are heard.
+- **A living directory:** By participating, you help us map out who is active in what topic, making it easier for everyone to find the right person for the right conversation.
 
-- **Foster Early-Stage Feedback:** We cultivate a safe environment for raw ideas, helping you refine your work long before it reaches a final draft.
-- **Discover Synergies:** Identify overlaps in research and projects across the community that you might not have known existed.
-- **Cross-Disciplinary Mapping:** Break out of silos and see how your niche fits into the broader ecosystem.
-- **Showcase Interesting Research:** We give a stage to the "hidden gems" of the community, ensuring diverse voices are heard.
-- **A Living Directory:** By participating, you help us map out who is active in what topic, making it easier for everyone to find the right person for the right conversation.
+**The format** We keep our sessions structured yet conversational. Each one-hour call will start with an input presentation by the presenter, followed by a discussion guided by the moderator and an open Q&A session.
 
-### The Format
+**Some ground rules** To maintain the integrity of our discussions and protect the "early-stage" culture, we ask all participants to respect the following:
 
-We keep our sessions structured yet conversational. Each one-hour call will start with an input presentation by the presenter, followed by a discussion guided by the moderator and an open Q&A session.
-
-### Our Ground Rules
-
-To maintain the integrity of our discussions and protect the "early-stage" culture, we ask all participants to respect the following:
-
-- **Live Experience Only:** These calls are not recorded. We want people to feel comfortable sharing half-baked ideas without fear of them living forever on the internet. (In rare cases, a presenter may choose to record their own 15-minute input, but the discussion remains private.)
-- **Humans Only:** These calls are open to anyone who wants to join—provided they are human. No AI meeting bots/notetakers allowed. We value your presence, not your transcript.
+- **Live experience only:** These calls are not recorded. We want people to feel comfortable sharing half-baked ideas without fear of them living forever on the internet. (In rare cases, a presenter may choose to record their own 15-minute input, but the discussion remains private.)
+- **Humans only:** These calls are open to anyone who wants to join—provided they are human. No AI meeting bots/notetakers allowed. We value your presence, not your transcript.
 
 Ready to present your work or join the next session? Reach out to Aurelia, Lucas, or Konrad on Slack or via email to get you started.
 
 ---
 
-## Deep-Dive Debates
+### Deep-dive debates
 
 The Deep-Dive Debates are our bi-monthly high-intensity sessions designed to foster engaging discussions on the most pressing topics of our field. These are not passive webinars; they are collaborative "think tank" spaces where the European community gathers to pinpoint where current laws (like the AI Act or DMA) lack technical grounding—and where emerging tech lacks legal guardrails.
 
-### Why join a Deep-Dive Debate?
+**Why join?** Come join our deep-dive debates if you want to debate with us and discuss unsolved problems. Within these debates, we all come prepared having done the mandatory pre-reads. We discuss possible frictions within CS&Law and new issues that emerge.
 
-Come join our deep-dive debates if you want to debate with us and discuss unsolved problems. Within these debates, we all come prepared having done the mandatory pre-reads. We discuss possible frictions within CS&Law and new issues that emerge.
+**The format** To keep the focus on high-level discourse, we've stripped away the fluff:
 
-### The Format
+- **Pre-read:** A mandatory, maximum 2-page briefing sent to all participants in advance.
+- **Provocation (5–10 min):** The session lead provides brief opening thoughts and poses 3–5 "provoking questions" to kick off the debate.
+- **Open debate:** A structured, moderated discussion governed by our Rules of Engagement.
 
-To keep the focus on high-level discourse, we've stripped away the fluff:
-
-- **The Pre-Read:** A mandatory, maximum 2-page briefing sent to all participants in advance.
-- **The Provocation (5–10 min):** The session lead provides brief opening thoughts and poses 3–5 "provoking questions" to kick off the debate.
-- **The Open Debate:** A structured, moderated discussion governed by our Rules of Engagement.
-
-### Rules of Engagement
-
-To maintain a "frontier" environment that is both rigorous and respectful, all participants agree to the following:
+**Rules of engagement** To maintain a "frontier" environment that is both rigorous and respectful, all participants agree to the following:
 
 - **Respect the disciplinary gap.** If you use jargon—like "proportionality" in law or "differential privacy" in CS—be prepared to define the core concept for the other side.
 - **While disagreement is encouraged** the sessions are still very much constructive and we aim to try to understand each other.
@@ -64,7 +52,9 @@ Do you have a topic that needs a Deep-Dive? Reach out to Konrad, Aurelia, or Luc
 
 ---
 
-## Comparison: Which session is right for you?
+
+
+### Comparison: Which session is right for you?
 
 | Feature         | Learning Calls                                       | Deep-Dive Debates                                                                                             |
 | --------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
