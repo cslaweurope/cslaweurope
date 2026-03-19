@@ -26,7 +26,7 @@ Our bi-monthly Learning Calls serve as a dynamic space for members to share emer
 - **Live experience only:** These calls are not recorded. We want people to feel comfortable sharing half-baked ideas without fear of them living forever on the internet. (In rare cases, a presenter may choose to record their own 15-minute input, but the discussion remains private.)
 - **Humans only:** These calls are open to anyone who wants to join—provided they are human. No AI meeting bots/notetakers allowed. We value your presence, not your transcript.
 
-Ready to present your work or join the next session? Reach out to Aurelia, Lucas, or Konrad on Slack or via email to get you started.
+Ready to present your work or join the next session? Reach out to Aurelia, Konrad, or Lucas on Slack or via email to get you started.
 
 ---
 
