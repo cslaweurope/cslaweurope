@@ -20,7 +20,7 @@ latest_posts:
 The intersection of **Computer Science (CS) and Law in Europe** is not just "tech policy" or "legal informatics." We aim to foster an emerging field of research that is inherently cross-disciplinary and requires a dedicated space to debate and grow.
 The CS & Law Europe Network connects researchers and practitioners working at the intersection of CS & Law. We are a decentralized, researcher-led initiative designed to bridge the gap between our institutions and communities.
 
-Our aims are:
+**Our aims are:**
 
 {% include figure.liquid loading="eager" path="assets/img/Visualizations.svg" class="img-fluid" alt="Aims of the CS & Law Europe Network" %}
 
@@ -35,3 +35,7 @@ We run monthly activities that alternate between different formats, taking place
 Sign up to our **events**, **mailing list**, and **Slack** community by sharing your email via our sign-up form:
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJP0NCPt03lckjn2BhaJBQtU7tYQ3YBORzNfYfGpaCmOlFXg/viewform?usp=header" class="btn btn-primary mt-1" target="_blank" rel="noopener noreferrer">Sign Up →</a>
+
+We hope to make this network as inclusive as possible, and are keen to involve anyone who wishes to contribute meaningfully.
+
+Initiators: Aurelia Tamò-Larrieux (University of St.Gallen) &amp; Konrad Kollnig (Maastricht University), with indispensable support from Lucas Uberti-Bona Marin (Maastricht University)
