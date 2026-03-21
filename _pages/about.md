@@ -24,13 +24,13 @@ The CS & Law Europe Network connects researchers and practitioners working at th
 
 {% include figure.liquid loading="eager" path="assets/img/Visualizations.svg" class="img-fluid" alt="Aims of the CS & Law Europe Network" %}
 
-## Monthly Activities
+## Monthly activities
 
 We run monthly activities that alternate between different formats, taking place every last Friday of the month from 12.30–1.30 CET. Sign up below to get a calendar invite.
 
 <a href="{{ '/activities/' | relative_url }}" class="btn btn-secondary mt-1">View Activities →</a>
 
-## Get Involved
+## Get involved
 
 Sign up to our **events**, **mailing list**, and **Slack** community by sharing your email via our sign-up form:
 
