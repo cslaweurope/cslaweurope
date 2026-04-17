@@ -39,3 +39,5 @@ Sign up to our **events**, **mailing list**, and **Slack** community by sharing 
 We hope to make this network as inclusive as possible, and are keen to involve anyone who wishes to contribute meaningfully.
 
 Initiators: Aurelia Tamò-Larrieux (University of St.Gallen) &amp; Konrad Kollnig (Maastricht University), with indispensable support from Lucas Uberti-Bona Marin (Maastricht University)
+
+> Privacy Notice: This site uses no cookies or analytics. By submitting the form, you agree to have your name processed by the network initiators for the sole purpose of Slack onboarding. Your data will be permanently deleted immediately following your invitation.
