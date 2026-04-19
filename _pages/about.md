@@ -40,4 +40,4 @@ We hope to make this network as inclusive as possible, and are keen to involve a
 
 Initiators: Aurelia Tamò-Larrieux (University of St.Gallen) &amp; Konrad Kollnig (Maastricht University), with indispensable support from Lucas Uberti-Bona Marin (Maastricht University)
 
-> Privacy Notice: This site uses no cookies or analytics. By submitting the form, you agree to have your name processed by the network initiators for the  purpose of Slack onboarding and sending invitations to upcoming talks via email. At any time, you can remove yourself from Slack (yourself) or from the mailing list (by contacting the initiators of the network).
+Privacy Notice: This site uses no cookies or analytics. By submitting the form, you agree to have your name processed by the network initiators for the  purpose of Slack onboarding and sending invitations to upcoming talks via email. At any time, you can remove yourself from Slack (yourself) or from the mailing list (by contacting the initiators of the network).
